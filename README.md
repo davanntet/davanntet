@@ -7,7 +7,7 @@ Data Scientist & Software Developer
 I am passionate about machine learning, AI, and software development. I am interested in researching Machine Learning and Artificial Intelligence.
 
 * 🌍  I'm based in Cambodia
-* ✉️  You can contact me at [davanncr@gmail.com](mailto:davanncr@gmail.com)
+* ✉️  You can contact me at [davanntet@gmail.com](mailto:davanntet@gmail.com)
 * 🧠  I'm learning Pytorch, NestJS, Spring Boot, ReactJS, Flutter, Taiwind CSS
 * 🤝  I'm open to collaborating on AI, Machine Learning, Software Development
 

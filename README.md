@@ -8,7 +8,7 @@ I am passionate about machine learning, AI, and software development. I am inter
 
 * 🌍  I'm based in Cambodia
 * ✉️  You can contact me at [davanntet@gmail.com](mailto:davanntet@gmail.com)
-* 🧠  I'm learning Pytorch, NestJS, Spring Boot, Django, Flash, ReactJS, Flutter, Taiwind CSS
+* 🧠  I'm learning Pytorch, NestJS, Spring Boot, Django, ReactJS, Flutter, Taiwind CSS
 * 🤝  I'm open to collaborating on AI, Machine Learning, Software Development
 
 <a href="https://www.github.com/davanntet" target="_blank" rel="noreferrer"><img
